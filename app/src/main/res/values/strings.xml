@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AD Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday Mr. Bug!</string>
+    <string name="signature_text">From Dad</string>
+</resources>
